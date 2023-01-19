@@ -14,3 +14,4 @@
 - N191. Number of 1 Bits
 - N338. Counting Bits
 - N371. Sum of Two Integers
+- N268. Missing Number
