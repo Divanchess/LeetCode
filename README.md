@@ -16,3 +16,4 @@
 - N371. Sum of Two Integers
 - N268. Missing Number
 - N190. Reverse Bits
+- N242. Valid Anagram
