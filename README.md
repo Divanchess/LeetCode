@@ -17,3 +17,4 @@
 - N268. Missing Number
 - N190. Reverse Bits
 - N242. Valid Anagram
+- N125. Valid Palindrome
