@@ -21,3 +21,5 @@
 - N5. Longest Palindromic Substring
 - N647. Palindromic Substrings
 - N49. Group Anagrams
+- N424. Longest Repeating Character Replacement
+- N76. Minimum Window Substring
